@@ -1,0 +1,1 @@
+{"type": 1, "id": "896214065192517643", "name": "/whelve", "avatar": "02fb82af89416261f110362b67cf750b", "channel_id": "896001364801486888", "guild_id": "896000203579072543", "application_id": null, "token": "5RZiQ_mptrjWxiJmclAB7s5mQRip3J8jWo3RYZ51VCTVpCLCMU2WMRDYVx5I9iqWeJ31"}
